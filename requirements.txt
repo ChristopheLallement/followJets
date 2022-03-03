@@ -1,0 +1,5 @@
+ipykernel==6.9.1
+ipyleaflet==0.15.0
+pandas==1.4.1
+-e git+git@github.com:openskynetwork/opensky-api.git@68c8304471fe32f5eaca8a41144fdad35d8a8ce4#egg=opensky_api&subdirectory=python
+

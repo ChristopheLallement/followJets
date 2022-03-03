@@ -1,0 +1,3 @@
+opensky-api/
+.venv/
+*.pyc
